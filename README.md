@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shaileshjha061
+- 👋 Hi, I’m Shailesh Jha
 - 👀 I’m interested in Learning DevOps Skills
-- 🌱 I’m currently learning Apache Pulsar
+- 🌱 I’m currently learning Apache Pulsar, Kubernetes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
